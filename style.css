@@ -1,0 +1,95 @@
+
+   
+
+
+h1{
+    text-align: center;
+    font-size: 250%;
+    font-weight: bold;
+
+}
+
+
+.upload { 
+    display: none;
+ }
+  /* Custom Upload Button */
+   .upload-button {
+     background-color: blue; 
+     color: white; 
+     padding: 14px;
+      border-radius: 10%;
+       text-align: center; 
+       cursor: pointer;
+       margin-bottom: 20px; 
+       
+    }
+
+    .upload-button:hover{
+        background-color: white;
+        color: blue;
+        border: 2px solid blue;
+    }
+
+    #downloadButton{
+        display: block;
+        text-decoration: none; 
+        padding: 14px;
+        background-color: grey;
+        color: white;
+        border-radius: 10%;
+        width: 200px;
+        margin-top: 20px;
+        justify-self: center;
+    }
+
+    #downloadButton:hover{
+        background-color: white;
+        color: grey;
+        border: 2px solid grey;
+    }
+
+
+    .down{
+       
+        margin-top: 50px;
+        
+
+        
+
+    }
+
+    #wrapper{
+        margin: 30px;
+        justify-self: center;
+        
+      
+
+    }
+    /* .first{
+        border: 2px solid black;
+        height: 400px;
+        width: 920px;
+       
+        justify-self: center;
+        
+
+    } */
+
+    .second{
+        justify-self: center;
+       background-color: aqua;
+       border: 2px solid black;
+        height: 60px;
+        width: 920px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .thrid{
+        border: 2px solid black;
+        height: 300px;
+        width: 920px;
+    }
