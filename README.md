@@ -13,6 +13,9 @@ This project has image compressed using HTML,CSS and javascpit
 ![Screenshot 2024-12-06 230007](https://github.com/user-attachments/assets/ef9f2f3b-9ac1-4645-9cbe-2740b26c7832)
 
 4.dowloand file
+
+
+
 ![Document - Google Chrome 06-12-2024 23_03_16](https://github.com/user-attachments/assets/774e5610-d885-438f-ac96-0d0d9a5169ba)
 
 
